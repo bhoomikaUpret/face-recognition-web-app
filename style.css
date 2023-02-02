@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(255, 164, 164);
+    color:rgb(0, 0, 0);
+}
+
+#heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+
+.name_of_family_members, #result_span_object
+{
+    color: blueviolet;
+}
+
+#camera 
+{
+    border: 2px dashed rgb(87, 87, 87);
+    width: 350px;
+    height: 300px;
+}
+
+
+
